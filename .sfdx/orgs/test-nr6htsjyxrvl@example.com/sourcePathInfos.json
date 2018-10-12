@@ -92,16 +92,15 @@
     [
         "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
             "isDirectory": false,
-            "size": 727,
-            "modifiedTime": 1539367212521,
-            "changeTime": 1539367212521,
-            "contentHash": "93fa8e689eac6cf73e10d09e52469950f223b7b8",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 796,
+            "modifiedTime": 1539371329477,
+            "changeTime": 1539371329477,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "ba5c604a13976df37a81fca2528391dc656bdd39"
         }
     ],
     [
@@ -167,16 +166,15 @@
     [
         "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1539365991489,
-            "changeTime": 1539365991489,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 361,
+            "modifiedTime": 1539371253368,
+            "changeTime": 1539371253368,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "eb46c21ec693583936289ac3f49702e6fcb2d555"
         }
     ],
     [
@@ -227,16 +225,15 @@
     [
         "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls",
             "isDirectory": false,
-            "size": 282,
-            "modifiedTime": 1539367213602,
-            "changeTime": 1539367213602,
-            "contentHash": "960ff715217369b7d2edfc646149526c386fd52d",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 227,
+            "modifiedTime": 1539368823202,
+            "changeTime": 1539368823202,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "198ffae000209a71f2b57b90ca764c5edf584561"
         }
     ],
     [
