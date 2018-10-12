@@ -3,7 +3,8 @@
         component.set("v.Columns",[
             {label: "First Name", fieldName:"FirstName", type:"text"},
             {label: "Last Name", fieldName:"LastName", type:"text"},
-            {label: "Phone", fieldName:"Phone", type:"phone"}
+            {label: "Phone", fieldName:"Phone", type:"phone"},
+            {label: "Email", fieldName:"Email", type:"email"}
         ]);
         var action = component.get("c.getContacts");
         action.setParams({

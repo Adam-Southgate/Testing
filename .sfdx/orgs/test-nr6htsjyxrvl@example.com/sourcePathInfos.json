@@ -92,15 +92,15 @@
     [
         "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
             "isDirectory": false,
+            "size": 912,
+            "modifiedTime": 1539372312276,
+            "changeTime": 1539372312276,
+            "contentHash": "07d5f0041d08629e6e3cb5ed9d461fc7d38cab28",
             "isMetadataFile": false,
-            "size": 796,
-            "modifiedTime": 1539371329477,
-            "changeTime": 1539371329477,
-            "isWorkspace": false,
-            "contentHash": "ba5c604a13976df37a81fca2528391dc656bdd39"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -170,11 +170,11 @@
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 361,
-            "modifiedTime": 1539371253368,
-            "changeTime": 1539371253368,
+            "size": 683,
+            "modifiedTime": 1539372442058,
+            "changeTime": 1539372442058,
             "isWorkspace": false,
-            "contentHash": "eb46c21ec693583936289ac3f49702e6fcb2d555"
+            "contentHash": "5d64347c1f5d827ad2e0de1fff55554a8afbf138"
         }
     ],
     [
@@ -225,15 +225,15 @@
     [
         "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 227,
             "modifiedTime": 1539368823202,
             "changeTime": 1539368823202,
-            "isWorkspace": false,
-            "contentHash": "198ffae000209a71f2b57b90ca764c5edf584561"
+            "contentHash": "198ffae000209a71f2b57b90ca764c5edf584561",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [

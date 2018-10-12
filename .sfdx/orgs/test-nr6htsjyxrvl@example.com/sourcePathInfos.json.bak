@@ -92,16 +92,15 @@
     [
         "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
             "isDirectory": false,
-            "size": 727,
-            "modifiedTime": 1539367212521,
-            "changeTime": 1539367212521,
-            "contentHash": "93fa8e689eac6cf73e10d09e52469950f223b7b8",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 912,
+            "modifiedTime": 1539372312276,
+            "changeTime": 1539372312276,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "07d5f0041d08629e6e3cb5ed9d461fc7d38cab28"
         }
     ],
     [
@@ -169,14 +168,13 @@
         {
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
             "isDirectory": false,
-            "size": 65,
-            "modifiedTime": 1539365991489,
-            "changeTime": 1539365991489,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "size": 620,
+            "modifiedTime": 1539371697414,
+            "changeTime": 1539371697414,
+            "contentHash": "238c7ee0bbca11c96dd730a9698fe7e947f699c2",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -229,14 +227,13 @@
         {
             "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls",
             "isDirectory": false,
-            "size": 282,
-            "modifiedTime": 1539367213602,
-            "changeTime": 1539367213602,
-            "contentHash": "960ff715217369b7d2edfc646149526c386fd52d",
+            "size": 227,
+            "modifiedTime": 1539368823202,
+            "changeTime": 1539368823202,
+            "contentHash": "198ffae000209a71f2b57b90ca764c5edf584561",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
