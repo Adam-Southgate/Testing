@@ -1,0 +1,269 @@
+[
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539361046940,
+            "changeTime": 1539361046940,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539361046940,
+            "changeTime": 1539361046940,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539364848867,
+            "changeTime": 1539364848867,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539365991486,
+            "changeTime": 1539365991486,
+            "contentHash": "dc570189c488cf26078214479566afa761e64eb3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539365991493,
+            "changeTime": 1539365991493,
+            "contentHash": "9e25bf2720796b832d7fb5299005619ee81d4e0d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.auradoc",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1539365991493,
+            "changeTime": 1539365991493,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+            "isDirectory": false,
+            "size": 912,
+            "modifiedTime": 1539372312276,
+            "changeTime": 1539372312276,
+            "contentHash": "07d5f0041d08629e6e3cb5ed9d461fc7d38cab28",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1539365991488,
+            "changeTime": 1539365991488,
+            "contentHash": "5a9dd69c56c420385dac7e04c4124bd538bc91f6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.css",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1539365991490,
+            "changeTime": 1539365991490,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.design",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1539365991493,
+            "changeTime": 1539365991493,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.svg",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1539365991492,
+            "changeTime": 1539365991492,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 683,
+            "modifiedTime": 1539372442058,
+            "changeTime": 1539372442058,
+            "isWorkspace": false,
+            "contentHash": "5d64347c1f5d827ad2e0de1fff55554a8afbf138"
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListHelper.js",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1539365991490,
+            "changeTime": 1539365991490,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListRenderer.js",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\aura\\MyContactList\\MyContactListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1539365991491,
+            "changeTime": 1539365991491,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539364848886,
+            "changeTime": 1539364848886,
+            "contentHash": "a1ec3b1a901b81a519a05663bb5a5f1e2824fa60",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1539368823202,
+            "changeTime": 1539368823202,
+            "contentHash": "198ffae000209a71f2b57b90ca764c5edf584561",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1539364848886,
+            "changeTime": 1539364848886,
+            "contentHash": "acb3d510d55ee351a9ea4e8390b6a3976bde2d8b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\users\\adam\\Documents\\VSCODE\\Training",
+        {
+            "sourcePath": "C:\\users\\adam\\Documents\\VSCODE\\Training",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1539367896501,
+            "changeTime": 1539367896501,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

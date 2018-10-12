@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
     "defaultdevhubusername": "DevHub"
+=======
+    "defaultdevhubusername": "DevHub",
+    "defaultusername": "ScratchOrg"
+>>>>>>> 2a37575d43d494e4cb38f2905ac8497590b941d8
 }
